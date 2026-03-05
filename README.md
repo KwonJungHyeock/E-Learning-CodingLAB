@@ -1,2 +1,3 @@
 # E-Learning-CodingLAB
-코딩교구 데이터 송출 용 저장소
+
+This project aims to provide a comprehensive e-learning platform for coding related to IoT monitoring systems.
